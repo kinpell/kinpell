@@ -1,6 +1,5 @@
 ### Hi there 👋 My name is Keven and i'm a Fullstack dev!
-- 🔭 I’m currently working on somes selfserves projects at Intact Insurance
-- 🌱 I’m currently learning Node.JS and GraphQL
+- 🔭 I’m currently working on somes projects at Intact Lab!
 
 <!--
 **kinpell/kinpell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
